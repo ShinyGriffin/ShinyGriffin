@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ShinyGriffin
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on simple python projects or rarely javascript
+- 📫 I am found on scratch.mit.edu as @raspberry901 or @ShinyGriffin_ (@ShinyGriffin_ is not approved yet please wait)
